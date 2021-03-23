@@ -2,7 +2,7 @@ import React from 'react';
 import CountUp from 'react-countup';
 const Counter = () => {
   return (
-    <div className="col-12 col-sm-6 offset-sm-3 text-center mt-5">
+    <div className="col-12 col-sm-6 offset-sm-3 text-center mt-5" data-aos='fade-up' data-aos-duration='3000'>
             <h4 className='display-5'>happn: the numbers</h4>
             <div className='row mt-5'>
               <section className='col-4'> 

@@ -1,0 +1,17 @@
+.banner{
+  height: 100vh;
+  background-image: url('../styles/assets/main_bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ban-cen{
+  height: 100vh;
+  color:#effaff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  letter-spacing: 1px;
+  
+}
