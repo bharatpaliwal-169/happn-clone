@@ -1,0 +1,98 @@
+header{
+  height: 85vh;
+  background: url('../styles/assets/happn.svg') ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner-center{
+  height: 100vh;
+  color:#effaff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  letter-spacing: 1.2px;
+}
+
+.text-mid{
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 2.2rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  color: #1E95BD;
+}
+.num{
+  color: #1E95BD;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.num-caption{
+  font-size: 1rem!important;
+  font-weight: 300;
+}
+.custom-btn{
+  border-radius: 9999px!important;
+  padding : 12px 36px!important;
+  font-size: 16px!important;
+  font-weight : 500!important;
+  font-family : 'roboto',sans-serif!important;
+  background-color: #1E95BD!important;
+  color: #FFFFFF!important;
+}
+.custom-btn:hover{
+  background-color: #1E95DD!important;
+}
+
+.navbar{
+  height: 65px !important;
+  opacity: 0.8;
+}
+.float-right{
+  margin-left: 40rem!important;
+}
+.nav-item{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #1E95BD!important;
+}
+
+.navbar-brand{
+  color: #1E95BD!important;
+  font-weight: bold!important;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+
+
+.cc{
+  color: #1E95BD!important;
+  font-weight: 400;
+}
+
+.abt{
+  color: #1E95BD!important;
+}
+.nav-de{
+  margin-right: 10rem;
+}
+.brand-de{
+  margin-left: 10rem;
+}
+.my-list{
+  list-style: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.my-list > li:hover{
+  color: #FFFFFF;
+}
+
+.fa{
+  margin-right: 25px;
+  font-size: large;
+}
+.footer{
+  opacity: 0.7!important;
+}
